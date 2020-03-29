@@ -1,0 +1,11 @@
+C:\Users\Andronic Tudor\Desktop\stick\PIU\tablouri_scara\tablouri_scara\bin\Debug\netcoreapp3.1\tablouri_scara.exe
+C:\Users\Andronic Tudor\Desktop\stick\PIU\tablouri_scara\tablouri_scara\bin\Debug\netcoreapp3.1\tablouri_scara.deps.json
+C:\Users\Andronic Tudor\Desktop\stick\PIU\tablouri_scara\tablouri_scara\bin\Debug\netcoreapp3.1\tablouri_scara.runtimeconfig.json
+C:\Users\Andronic Tudor\Desktop\stick\PIU\tablouri_scara\tablouri_scara\bin\Debug\netcoreapp3.1\tablouri_scara.runtimeconfig.dev.json
+C:\Users\Andronic Tudor\Desktop\stick\PIU\tablouri_scara\tablouri_scara\bin\Debug\netcoreapp3.1\tablouri_scara.dll
+C:\Users\Andronic Tudor\Desktop\stick\PIU\tablouri_scara\tablouri_scara\bin\Debug\netcoreapp3.1\tablouri_scara.pdb
+C:\Users\Andronic Tudor\Desktop\stick\PIU\tablouri_scara\tablouri_scara\obj\Debug\netcoreapp3.1\tablouri_scara.csprojAssemblyReference.cache
+C:\Users\Andronic Tudor\Desktop\stick\PIU\tablouri_scara\tablouri_scara\obj\Debug\netcoreapp3.1\tablouri_scara.AssemblyInfoInputs.cache
+C:\Users\Andronic Tudor\Desktop\stick\PIU\tablouri_scara\tablouri_scara\obj\Debug\netcoreapp3.1\tablouri_scara.AssemblyInfo.cs
+C:\Users\Andronic Tudor\Desktop\stick\PIU\tablouri_scara\tablouri_scara\obj\Debug\netcoreapp3.1\tablouri_scara.dll
+C:\Users\Andronic Tudor\Desktop\stick\PIU\tablouri_scara\tablouri_scara\obj\Debug\netcoreapp3.1\tablouri_scara.pdb

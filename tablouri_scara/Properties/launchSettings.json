@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "tablouri_scara": {
+      "commandName": "Project",
+      "commandLineArgs": "asd bcdef cdef asd efg"
+    }
+  }
+}
